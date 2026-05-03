@@ -30,6 +30,13 @@ Master of Information Systems Management graduate with Business Analyst internsh
 
 ## 📊 Projects
 
+### 🔹 Customer Churn Analysis Dashboard (Power BI)
+- Analysed 6,687 customers with a 26.86% churn rate  
+- Built interactive KPI dashboard to track churn across segments  
+- Identified key drivers: contract type, tenure, pricing, and usage  
+- Discovered high churn in month-to-month contracts (~46%) vs yearly (~6%)  
+- Used DAX, data modelling, and visual analytics to generate insights  
+
 ### 🔹 Retail Sales Performance Dashboard (Power BI)
 - Analysed ₹438K revenue across 5,600+ transactions
 - Built interactive KPI dashboard
@@ -64,7 +71,7 @@ Master of Information Systems Management graduate with Business Analyst internsh
 
 ## 💼 Experience
 
-**Business Analyst Intern — EdEdge Global**  
+**Business Analyst Intern - EdEdge Global**  
 - Data cleaning using SQL & Python  
 - Built Power BI & Tableau dashboards  
 - Performed EDA & statistical analysis  
@@ -75,13 +82,14 @@ Master of Information Systems Management graduate with Business Analyst internsh
 
 ## 🎓 Education
 
-Master of Information Systems Management — Macquarie University  
-Bachelor of Engineering — University of Mumbai  
+Master of Information Systems Management - Macquarie University  
+Bachelor of Engineering - University of Mumbai  
 
 ---
 
 ## 📜 Certifications
 
+- Power BI Fundamentals by DataCamp
 - Deloitte Data Analytics Simulation
 - McKinsey Forward Program
 - TAFE SQL
