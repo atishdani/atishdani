@@ -35,7 +35,15 @@ Master of Information Systems Management graduate with Business Analyst internsh
 - Built interactive KPI dashboard to track churn across segments  
 - Identified key drivers: contract type, tenure, pricing, and usage  
 - Discovered high churn in month-to-month contracts (~46%) vs yearly (~6%)  
-- Used DAX, data modelling, and visual analytics to generate insights  
+- Used DAX, data modelling, and visual analytics to generate insights
+
+### 🔹 Manufacturing Downtime & Pay Equity Analysis (Tableau + Excel)
+- Analysed telemetry data from 4 global factories with machine status recorded every 10 minutes and employee compensation datasets  
+- Built interactive dashboard to track downtime across factories and device types  
+- Identified key downtime drivers: LaserWelder (~480), LaserCutter (~430), and factory-level inefficiencies  
+- Discovered highest downtime in Seiko factory (~490) vs minimal downtime in Berlin (~20)  
+- Developed classification model to evaluate gender pay equality across job roles and identify highly discriminative categories  
+- Used Tableau, Excel (IF logic), data aggregation, and visual analytics to generate insights  
 
 ### 🔹 Retail Sales Performance Dashboard (Power BI)
 - Analysed ₹438K revenue across 5,600+ transactions
