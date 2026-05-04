@@ -51,63 +51,17 @@ With experience across **12+ projects and a Business Analyst internship**, I spe
 
 ---
 
-### 🟢 Retail Sales Performance Dashboard
 
-**Power BI | Business Problem: Identify Revenue Drivers**
+### 🟣 Manufacturing Downtime & Pay Equity Analysis  
 
-* Analysed **₹438K revenue across 5,600+ transactions**
-* Identified **67% revenue concentration in key categories**
-* Built interactive KPI dashboard using DAX
+**Tableau + Excel | Business Problem: Reduce Downtime & Identify Pay Inequality**
 
-👉 **Impact:** Supported product-level revenue optimisation
+* Analysed telemetry data from **4 global factories** (10-min interval machine signals)  
+* Identified key downtime drivers: **LaserWelder (~480), LaserCutter (~430)**  
+* Found highest downtime in **Seiko (~490)** vs lowest in **Berlin (~20)**  
+* Built interactive dashboard and Excel-based classification model  
 
----
-
-### 🔵 Business Sales Analysis
-
-**SQL | Business Problem: Customer Segmentation**
-
-* Analysed **₹486K transactional dataset**
-* Identified **high-value orders contributing 67% revenue**
-* Performed segmentation using joins and aggregations
-
-👉 **Impact:** Enabled targeted marketing and retention strategies
-
----
-
-### 🟡 Football Player Analytics Dashboard
-
-**Tableau | Business Problem: Player Performance Insights**
-
-* Analysed **18,000+ player records**
-* Identified peak performance age & high-potential players
-* Visualised market value distribution across clubs
-
-👉 **Impact:** Supported data-driven scouting decisions
-
----
-
-### 🔴 Vehicle Price Analysis
-
-**Python | Business Problem: Pricing Strategy**
-
-* Analysed **11,900+ vehicle listings**
-* Identified key drivers: age, mileage, fuel type
-* Conducted EDA, data cleaning, and visualisation
-
-👉 **Impact:** Improved pricing strategy insights
-
----
-
-### ⚫ Deloitte Data Analytics Job Simulation
-
-**Consulting Simulation | Real-world Business Scenarios**
-
-* Performed data cleaning and transformation
-* Built dashboards and visual reports
-* Applied structured, stakeholder-focused analysis
-
-👉 **Impact:** Demonstrated consulting-style problem solving
+👉 **Impact:** Enabled identification of high-risk machines, optimized maintenance strategy, and highlighted pay inequality across roles  
 
 ---
 
@@ -138,9 +92,7 @@ Database Systems, Enterprise Systems, Information Systems Design, Project Manage
 * Deloitte Data Analytics Job Simulation
 * Power BI Fundamentals by DataCamp
 * McKinsey Forward Program
-* TAFE NSW - Data Analytics
-* TAFE NSW - SQL
-* EdEdge Global Business Analyst Program
+
 
 ---
 
