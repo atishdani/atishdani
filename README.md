@@ -1,113 +1,162 @@
-# Hi, I'm Atish Dani 👋
+# 👋 Hi, I'm Atish Dani
 
-🎯 Business Intelligence & Data Analyst  
-📍 Australia  
-💻 SQL | Python | Power BI | Tableau | Excel | Data Analysis | ETL | Dashboard Development  
+🎯 **Data Analyst | BI Analyst | Business Analyst**
+📍 Sydney, Australia
 
-Transforming data into actionable insights using SQL, Python, Power BI, Tableau, and Advanced Excel.  
-Analysed datasets with 11,900+ records and ₹438K+ transactions to uncover trends and support data-driven decision making.  
-Master of Information Systems Management graduate with Business Analyst internship experience.
+💡 I build data-driven solutions that transform raw datasets into **actionable business insights**.
+With experience across **12+ projects and a Business Analyst internship**, I specialize in **analytics, dashboards, and decision-focused reporting**.
 
 ---
 
-## 🔧 Skills
+## 🚀 What I Do
 
-- SQL
-- Python (Pandas, NumPy, Matplotlib)
-- Power BI
-- Tableau
-- Advanced Excel
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualisation
-- Dashboard Development
-- KPI Reporting
-- Business Analysis
-- ETL & Data Integration
-- Statistical Analysis
+* 📊 Data Cleaning, Transformation & Analysis (SQL, Excel, Python)
+* 📈 Dashboard Development (Power BI, Tableau)
+* 🔍 Exploratory Data Analysis (EDA)
+* 🎯 Business Insights & KPI Reporting
 
 ---
 
-## 📊 Projects
+## 🧠 Key Impact
 
-### 🔹 Customer Churn Analysis Dashboard (Power BI)
-- Analysed 6,687 customers with a 26.86% churn rate  
-- Built interactive KPI dashboard to track churn across segments  
-- Identified key drivers: contract type, tenure, pricing, and usage  
-- Discovered high churn in month-to-month contracts (~46%) vs yearly (~6%)  
-- Used DAX, data modelling, and visual analytics to generate insights
+* ⏱ Reduced reporting effort by **30%**
+* 📊 Improved data accuracy by **25%**
+* 📈 Increased decision-making accuracy by **20%**
 
-### 🔹 Manufacturing Downtime & Pay Equity Analysis (Tableau + Excel)
-- Analysed telemetry data from 4 global factories with machine status recorded every 10 minutes and employee compensation datasets  
-- Built interactive dashboard to track downtime across factories and device types  
-- Identified key downtime drivers: LaserWelder (~480), LaserCutter (~430), and factory-level inefficiencies  
-- Discovered highest downtime in Seiko factory (~490) vs minimal downtime in Berlin (~20)  
-- Developed classification model to evaluate gender pay equality across job roles and identify highly discriminative categories  
-- Used Tableau, Excel (IF logic), data aggregation, and visual analytics to generate insights  
+---
 
-### 🔹 Retail Sales Performance Dashboard (Power BI)
-- Analysed ₹438K revenue across 5,600+ transactions
-- Built interactive KPI dashboard
-- Identified key product revenue drivers
-- Used DAX, data modelling, and visual analytics
+## 🛠️ Tech Stack
 
-### 🔹 Football Player Performance Dashboard (Tableau)
-- Analysed 18,000+ player records
-- Built interactive Tableau dashboard
-- Evaluated player performance, potential, and market value
-- Compared club and nationality trends
+**Languages & Tools**
+`SQL` `Python` `Excel` `Power BI` `Tableau`
 
-### 🔹 Vehicle Price Analysis (Python)
-- Analysed 11,900+ vehicle listings
-- Performed data cleaning, EDA, and visualisation
-- Identified price drivers using statistical analysis
-- Used Pandas, Matplotlib, Seaborn
+**Core Skills**
+`Data Analysis` `EDA` `Data Cleaning` `Data Visualization`
+`DAX` `ETL` `Dashboard Development` `Statistical Analysis`
 
-### 🔹 Sales Data Analysis (SQL)
-- Analysed ₹486K sales dataset
-- Used joins, aggregations, CTE, filtering
-- Identified high-value customers
-- Generated revenue insights
+---
 
-### 🔹 Insurance Risk Analysis (Excel)
-- Analysed insurance dataset using Pivot Tables
-- Identified claim risk factors
-- Built Excel dashboard
-- Delivered premium pricing insights
+## 📌 Featured Projects
+
+### 🟣 Customer Churn Analysis Dashboard
+
+**Power BI | Business Problem: Reduce Customer Churn**
+
+* Analysed **6,687 customers** with a **26.86% churn rate**
+* Identified key drivers: contract type, tenure, pricing, usage
+* Found **~46% churn in monthly contracts vs ~6% yearly**
+* Built interactive KPI dashboard
+
+👉 **Impact:** Enabled identification of at-risk customers and retention strategies
+
+---
+
+### 🟢 Retail Sales Performance Dashboard
+
+**Power BI | Business Problem: Identify Revenue Drivers**
+
+* Analysed **₹438K revenue across 5,600+ transactions**
+* Identified **67% revenue concentration in key categories**
+* Built interactive KPI dashboard using DAX
+
+👉 **Impact:** Supported product-level revenue optimisation
+
+---
+
+### 🔵 Business Sales Analysis
+
+**SQL | Business Problem: Customer Segmentation**
+
+* Analysed **₹486K transactional dataset**
+* Identified **high-value orders contributing 67% revenue**
+* Performed segmentation using joins and aggregations
+
+👉 **Impact:** Enabled targeted marketing and retention strategies
+
+---
+
+### 🟡 Football Player Analytics Dashboard
+
+**Tableau | Business Problem: Player Performance Insights**
+
+* Analysed **18,000+ player records**
+* Identified peak performance age & high-potential players
+* Visualised market value distribution across clubs
+
+👉 **Impact:** Supported data-driven scouting decisions
+
+---
+
+### 🔴 Vehicle Price Analysis
+
+**Python | Business Problem: Pricing Strategy**
+
+* Analysed **11,900+ vehicle listings**
+* Identified key drivers: age, mileage, fuel type
+* Conducted EDA, data cleaning, and visualisation
+
+👉 **Impact:** Improved pricing strategy insights
+
+---
+
+### ⚫ Deloitte Data Analytics Job Simulation
+
+**Consulting Simulation | Real-world Business Scenarios**
+
+* Performed data cleaning and transformation
+* Built dashboards and visual reports
+* Applied structured, stakeholder-focused analysis
+
+👉 **Impact:** Demonstrated consulting-style problem solving
 
 ---
 
 ## 💼 Experience
 
-**Business Analyst Intern - EdEdge Global**  
-- Data cleaning using SQL & Python  
-- Built Power BI & Tableau dashboards  
-- Performed EDA & statistical analysis  
-- Delivered KPI reports for stakeholders  
-- Improved reporting efficiency by 40%  
+**Business Analyst Intern — EdEdge Global**
+*Remote, Australia | Nov 2025 - Feb 2026*
+
+* Analysed datasets using SQL, Python, Excel
+* Built dashboards improving reporting efficiency using Power BI and Tableau
+* Delivered insights to stakeholders
+* Reduced manual reporting effort
 
 ---
 
 ## 🎓 Education
 
-Master of Information Systems Management - Macquarie University  
-Bachelor of Engineering - University of Mumbai  
+**Master of Information Systems Management**
+Macquarie University
+
+Relevant Coursework:
+Database Systems, Enterprise Systems, Information Systems Design, Project Management
 
 ---
 
 ## 📜 Certifications
 
-- Power BI Fundamentals by DataCamp
-- Deloitte Data Analytics Simulation
-- McKinsey Forward Program
-- TAFE SQL
-- TAFE Data Analytics
-- EdEdge Global Internship
-- Hootsuite Marketing Certification
+* Deloitte Data Analytics Job Simulation
+* Power BI Fundamentals by DataCamp
+* McKinsey Forward Program
+* TAFE NSW - Data Analytics
+* TAFE NSW - SQL
+* EdEdge Global Business Analyst Program
 
 ---
 
-## 🔗 Connect with me
+## 📊 GitHub Focus
 
-LinkedIn: https://www.linkedin.com/in/atishdani  
-GitHub: https://github.com/atishdani
+* End-to-end analytics projects
+* Business-focused dashboards
+* Clean and well-documented code
+* Real-world datasets and insights
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/atishdani
+* 💻 GitHub: https://github.com/atishdani
+* 📧 Email: [atishdani@gmail.com](mailto:atishdani@gmail.com)
+
+---
