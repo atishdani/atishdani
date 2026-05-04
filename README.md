@@ -113,7 +113,7 @@ With experience across **12+ projects and a Business Analyst internship**, I spe
 
 ## 💼 Experience
 
-**Business Analyst Intern — EdEdge Global**
+**Business Analyst Intern - EdEdge Global**
 *Remote, Australia | Nov 2025 - Feb 2026*
 
 * Analysed datasets using SQL, Python, Excel
