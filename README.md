@@ -92,6 +92,7 @@ Database Systems, Enterprise Systems, Information Systems Design, Project Manage
 * Deloitte Data Analytics Job Simulation
 * Power BI Fundamentals by DataCamp
 * McKinsey Forward Program
+* Google AI for Data Analysis via Coursera
 
 
 ---
