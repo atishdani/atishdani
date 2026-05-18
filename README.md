@@ -36,35 +36,6 @@ With experience across **12+ projects and a Business Analyst internship**, I spe
 
 ---
 
-## 📌 Featured Projects
-
-### 🟣 Customer Churn Analysis Dashboard
-
-**Power BI | Business Problem: Reduce Customer Churn**
-
-* Analysed **6,687 customers** with a **26.86% churn rate**
-* Identified key drivers: contract type, tenure, pricing, usage
-* Found **~46% churn in monthly contracts vs ~6% yearly**
-* Built interactive KPI dashboard
-
-👉 **Impact:** Enabled identification of at-risk customers and retention strategies
-
----
-
-
-### 🟣 Manufacturing Downtime & Pay Equity Analysis  
-
-**Tableau + Excel | Business Problem: Reduce Downtime & Identify Pay Inequality**
-
-* Analysed telemetry data from **4 global factories** (10-min interval machine signals)  
-* Identified key downtime drivers: **LaserWelder (~480), LaserCutter (~430)**  
-* Found highest downtime in **Seiko (~490)** vs lowest in **Berlin (~20)**  
-* Built interactive dashboard and Excel-based classification model  
-
-👉 **Impact:** Enabled identification of high-risk machines, optimized maintenance strategy, and highlighted pay inequality across roles  
-
----
-
 ## 💼 Experience
 
 **Business Analyst Intern - EdEdge Global**
